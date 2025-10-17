@@ -87,9 +87,5 @@ EDA, Predictive Modeling, Statistical Analysis, Business Intelligence
 
 ---
 
-## 🐍 GitHub Contribution Animation
-![snake gif](https://github.com/Krushil0806/Krushil0806/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <h3 align="center">🌟 "Turning Data into Knowledge — and Knowledge into Impact." 🌟</h3>
