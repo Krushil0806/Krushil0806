@@ -57,9 +57,6 @@ EDA, Predictive Modeling, Statistical Analysis, Business Intelligence
   <img src="https://github-readme-stats.vercel.app/api?username=Krushil0806&show_icons=true&theme=radical" alt="Krushil's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushil0806&theme=radical" alt="Krushil's GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushil0806&layout=compact&theme=radical" alt="Top Languages" />
